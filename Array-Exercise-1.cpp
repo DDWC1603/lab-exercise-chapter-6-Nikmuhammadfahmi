@@ -1,3 +1,6 @@
+//Name : Nik Muhammad Fahmi Bin Nik Yusoff
+//Matrics : A17DW2214
+
 #include <iostream>
 using namespace std;
 
